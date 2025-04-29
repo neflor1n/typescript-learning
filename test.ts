@@ -13,4 +13,3 @@ console.log(car);
 for (const [key, value] of Object.entries(car)) {
 	console.log(`${key}: ${value}`);
 }
-
